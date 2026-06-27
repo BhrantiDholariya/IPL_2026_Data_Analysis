@@ -14,24 +14,27 @@ print(df.isnull().sum())
 #team won the most matches
 match_wins = df['winner'].value_counts()
 blue_gradient = sns.blend_palette(["#0B5394", "#7FB3D5"], n_colors=len(match_wins))
+plt.figure(figsize=(10, 10))
 sns.barplot(y = match_wins.index, x = match_wins.values, palette=blue_gradient)
-plt.xlabel("Wins")
-plt.ylabel("Teams")
-plt.title("Most Match Wins by Team")
+plt.xlabel("Wins", fontsize=14)
+plt.ylabel("Teams", fontsize=14)
+plt.title("Most Match Wins by Team", fontsize=18)
+plt.xticks(fontsize=13)
+plt.yticks(fontsize=13)
 plt.tight_layout()
 plt.savefig("Most_Win.png")
 plt.show()
 
 #Toss decisions
 sns.countplot(x = df['toss_decision'] , palette = ["#0B5394","#F26B38"])
-plt.title("Toss Decision")
+plt.title("Toss_Decision")
 plt.savefig("Toss_Decision.png")
 plt.show()
 
 #Toss Winner is the Match Winner
 count = df[df['toss_winner'] == df['winner']]['date'].count()
 percentage = (count * 100)/df.shape[0]
-print(f"\nToss winner is the Match Winner percentage : {percentage}\n")
+print(percentage)
 
 #Team won by Wickets or Runs
 win_by_runs = (df['win_by_runs'] > 0).sum()
@@ -88,4 +91,3 @@ plt.title('Matches Played per Venue')
 plt.tight_layout()
 plt.savefig("Matches_Played_per_Venue.png")
 plt.show()
-
