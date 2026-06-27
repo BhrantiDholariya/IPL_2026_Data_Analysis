@@ -1,0 +1,75 @@
+date,season,city,venue,team1,team2,toss_winner,toss_decision,team1_runs,team1_wickets,team2_runs,team2_wickets,winner,win_by_runs,win_by_wickets,player_of_match,match_referee
+28/03/2026,2026,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,201,9,203,4,Royal Challengers Bengaluru,0,6,JA Duffy,J Srinath
+29/03/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,220,4,224,4,Mumbai Indians,0,6,SN Thakur,Shakti Singh
+30/03/2026,2026,Guwahati,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,127,10,128,2,Rajasthan Royals,0,8,N Burger,V Narayan Kutty
+31/03/2026,2026,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Gujarat Titans,Punjab Kings,Punjab Kings,field,162,6,165,7,Punjab Kings,0,3,C Connolly,Prakash Bhatt
+01/04/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,Delhi Capitals,field,141,10,145,4,Delhi Capitals,0,6,Sameer Rizvi,J Srinath
+02/04/2026,2026,Kolkata,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,226,8,161,10,Sunrisers Hyderabad,65,0,Nithish Kumar Reddy,Shakti Singh
+03/04/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Punjab Kings,Punjab Kings,field,209,5,210,5,Punjab Kings,0,5,Priyansh Arya,Prakash Bhatt
+04/04/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,210,6,204,8,Rajasthan Royals,6,0,Ravi Bishnoi,J Srinath
+04/04/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,Delhi Capitals,field,162,6,164,4,Delhi Capitals,0,6,Sameer Rizvi,V Narayan Kutty
+05/04/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,field,156,9,160,5,Lucknow Super Giants,0,5,Mohammed Shami,Shakti Singh
+05/04/2026,2026,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,Chennai Super Kings,field,250,3,207,10,Royal Challengers Bengaluru,43,0,TH David,Prakash Bhatt
+06/04/2026,2026,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,25,2,0,0,None,0,0,None,J Srinath
+07/04/2026,2026,Guwahati,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,150,3,123,9,Rajasthan Royals,27,0,YBK Jaiswal,V Narayan Kutty
+08/04/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,Delhi Capitals,field,210,4,209,8,Gujarat Titans,1,0,Rashid Khan,Shakti Singh
+09/04/2026,2026,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,181,4,182,7,Lucknow Super Giants,0,3,MD Choudhary,Prakash Bhatt
+10/04/2026,2026,Guwahati,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,Rajasthan Royals,field,201,8,202,4,Rajasthan Royals,0,6,V Suryavanshi,V Narayan Kutty
+11/04/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,212,2,189,10,Chennai Super Kings,23,0,SV Samson,Shakti Singh
+11/04/2026,2026,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,219,6,223,4,Punjab Kings,0,6,SS Iyer,J Srinath
+12/04/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,Mumbai Indians,field,240,4,222,6,Royal Challengers Bengaluru,18,0,PD Salt,V Narayan Kutty
+12/04/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,Gujarat Titans,field,164,8,165,3,Gujarat Titans,0,7,M Prasidh Krishna,Prakash Bhatt
+13/04/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,216,6,159,10,Sunrisers Hyderabad,57,0,PP Hinge,J Srinath
+14/04/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,192,5,160,7,Chennai Super Kings,32,0,Noor Ahmad,Shakti Singh
+15/04/2026,2026,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,146,10,149,5,Royal Challengers Bengaluru,0,5,JR Hazlewood,Prakash Bhatt
+16/04/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,Punjab Kings,field,195,6,198,3,Punjab Kings,0,7,Arshdeep Singh,V Narayan Kutty
+17/04/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,bat,180,10,181,5,Gujarat Titans,0,5,Shubman Gill,J Srinath
+18/04/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,194,9,184,8,Sunrisers Hyderabad,10,0,E Malinga,Shakti Singh
+18/04/2026,2026,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,Delhi Capitals,field,175,8,179,5,Delhi Capitals,0,6,T Stubbs,Prakash Bhatt
+19/04/2026,2026,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,254,7,200,5,Punjab Kings,54,0,Priyansh Arya,J Srinath
+19/04/2026,2026,Kolkata,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,155,9,161,6,Kolkata Knight Riders,0,4,CV Varun,V Narayan Kutty
+20/04/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,Gujarat Titans,field,199,5,100,10,Mumbai Indians,99,0,Tilak Varma,Prakash Bhatt
+21/04/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,242,2,195,9,Sunrisers Hyderabad,47,0,Abhishek Sharma,Shakti Singh
+22/04/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,field,159,6,119,10,Rajasthan Royals,40,0,RA Jadeja,V Narayan Kutty
+23/04/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,207,6,104,10,Chennai Super Kings,103,0,SV Samson,Prakash Bhatt
+24/04/2026,2026,Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,205,3,206,5,Royal Challengers Bengaluru,0,5,V Kohli,J Srinath
+25/04/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,Delhi Capitals,bat,264,2,265,4,Punjab Kings,0,6,KL Rahul,V Narayan Kutty
+25/04/2026,2026,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,228,6,229,5,Sunrisers Hyderabad,0,5,Ishan Kishan,Amit Sharma
+26/04/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,Lucknow Super Giants,field,159,7,156,10,None,0,0,RK Singh,J Srinath
+26/04/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Gujarat Titans,Gujarat Titans,field,158,7,162,2,Gujarat Titans,0,8,K Rabada,Prakash Bhatt
+27/04/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,75,10,77,1,Royal Challengers Bengaluru,0,9,JR Hazlewood,V Narayan Kutty
+28/04/2026,2026,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,222,4,228,4,Rajasthan Royals,0,6,D Ferreira,Amit Sharma
+29/04/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,243,5,249,4,Sunrisers Hyderabad,0,6,H Klaasen,J Srinath
+30/04/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,155,10,158,6,Gujarat Titans,0,4,JO Holder,IR Siddiqui
+01/05/2026,2026,Jaipur,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,225,6,226,3,Delhi Capitals,0,7,KL Rahul,R Seth
+02/05/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,159,7,160,2,Chennai Super Kings,0,8,RD Gaikwad,Amit Sharma
+03/05/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,Gujarat Titans,field,163,9,167,6,Gujarat Titans,0,4,JO Holder,P Dharmani
+03/05/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,165,10,169,3,Kolkata Knight Riders,0,7,CV Varun,IR Siddiqui
+04/05/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,228,5,229,4,Mumbai Indians,0,6,RD Rickelton,R Seth
+05/05/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,155,7,159,2,Chennai Super Kings,0,8,SV Samson,Amit Sharma
+06/05/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,235,4,202,7,Sunrisers Hyderabad,33,0,PJ Cummins,DS Manohar
+07/05/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,209,3,203,6,Lucknow Super Giants,9,0,MR Marsh,P Dharmani
+08/05/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,142,8,147,2,Kolkata Knight Riders,0,8,FH Allen,Amit Sharma
+09/05/2026,2026,Jaipur,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,229,4,152,10,Gujarat Titans,77,0,Rashid Khan,R Seth
+10/05/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Chennai Super Kings,Chennai Super Kings,field,203,8,208,5,Chennai Super Kings,0,5,J Overton,DS Manohar
+10/05/2026,2026,Raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,166,7,167,8,Royal Challengers Bengaluru,0,2,B Kumar,Amit Sharma
+11/05/2026,2026,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,Delhi Capitals,field,210,5,216,7,Delhi Capitals,0,3,M Tiwari,P Dharmani
+12/05/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,field,168,5,86,10,Gujarat Titans,82,0,K Rabada,R Seth
+13/05/2026,2026,Raipur,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,192,4,194,4,Royal Challengers Bengaluru,0,6,V Kohli,A Kripal Singh
+14/05/2026,2026,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,Mumbai Indians,field,200,8,205,4,Mumbai Indians,0,6,Tilak Varma,P Dharmani
+15/05/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,187,5,188,3,Lucknow Super Giants,0,7,MR Marsh,DS Manohar
+16/05/2026,2026,Kolkata,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,Gujarat Titans,field,247,2,218,4,Kolkata Knight Riders,29,0,SP Narine,R Seth
+17/05/2026,2026,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,Punjab Kings,field,222,4,199,8,Royal Challengers Bengaluru,23,0,VR Iyer,P Dharmani
+17/05/2026,2026,Delhi,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,193,8,197,5,Delhi Capitals,0,5,MA Starc,DS Manohar
+18/05/2026,2026,Chennai,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,180,7,181,5,Sunrisers Hyderabad,0,5,Ishan Kishan,A Kripal Singh
+19/05/2026,2026,Jaipur,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,field,220,5,225,3,Rajasthan Royals,0,7,V Suryavanshi,IR Siddiqui
+20/05/2026,2026,Kolkata,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,147,8,148,6,Kolkata Knight Riders,0,4,MK Pandey,R Seth
+21/05/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,229,4,140,10,Gujarat Titans,89,0,Mohammed Siraj,A Kripal Singh
+22/05/2026,2026,Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,Sunrisers Hyderabad,bat,255,4,200,4,Sunrisers Hyderabad,55,0,Ishan Kishan,DS Manohar
+23/05/2026,2026,Lucknow,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,Punjab Kings,field,196,6,200,3,Punjab Kings,0,7,SS Iyer,A Kripal Singh
+24/05/2026,2026,Mumbai,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,205,8,175,9,Rajasthan Royals,30,0,JC Archer,DS Manohar
+24/05/2026,2026,Kolkata,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,203,5,163,10,Delhi Capitals,40,0,Kuldeep Yadav,IR Siddiqui
+26/05/2026,2026,Dharamsala,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,Gujarat Titans,field,254,5,162,10,Royal Challengers Bengaluru,92,0,RM Patidar,J Srinath
+27/05/2026,2026,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,243,8,196,10,Rajasthan Royals,47,0,V Suryavanshi,V Narayan Kutty
+29/05/2026,2026,New Chandigarh,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,bat,214,6,219,3,Gujarat Titans,0,7,Shubman Gill,Prakash Bhatt
+31/05/2026,2026,Ahmedabad,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,Royal Challengers Bengaluru,field,155,8,161,5,Royal Challengers Bengaluru,0,5,V Kohli,J Srinath
